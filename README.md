@@ -1,5 +1,5 @@
 # Hr-Dashboard
-In this Guided project i have taken a sample HR data of Awesome Chocolateand created a stunning dashboards using Power BI. Some of the steps i performed before building the dashboard are:
+In this Guided project i have taken a sample HR data of Awesome Chocolate and created a stunning dashboards using Power BI. Some of the steps i performed before building the dashboard are:
 
 ◈ Loading data into Power BI and cleaning it with Power Query
 ◈ Creating HR metrics like headcount, avg. leave balance, avg. salary etc. with Power Pivot
